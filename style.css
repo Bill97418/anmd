@@ -1,0 +1,13 @@
+body {
+  margin: 10px;
+}
+
+.mainContainer {
+  margin-left: 300px;
+}
+
+.sidebar {
+  margin-right: 20px;
+  height: 60vh;
+  position: fixed;
+}
